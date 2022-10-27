@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yvipo\OneDrive\Desktop\GD mods\TASBot-No-Watermark\build\CMakeFiles\b2f37f99979666f09d0de29d9b559957\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C8BFC3F7-D6B2-37BA-B7DE-BD5418029430}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

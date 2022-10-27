@@ -1,0 +1,10 @@
+^C:\USERS\YVIPO\ONEDRIVE\DESKTOP\GD MODS\TASBOT-NO-WATERMARK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/yvipo/OneDrive/Desktop/GD mods/TASBot-No-Watermark" "-BC:/Users/yvipo/OneDrive/Desktop/GD mods/TASBot-No-Watermark/build" --check-stamp-file "C:/Users/yvipo/OneDrive/Desktop/GD mods/TASBot-No-Watermark/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
