@@ -1,3 +1,0 @@
-C:/Users/yvipo/OneDrive/Desktop/GD mods/TASBot-No-Watermark/build/CMakeFiles/TASBot-No-Watermark.dir
-C:/Users/yvipo/OneDrive/Desktop/GD mods/TASBot-No-Watermark/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/yvipo/OneDrive/Desktop/GD mods/TASBot-No-Watermark/build/CMakeFiles/ZERO_CHECK.dir
