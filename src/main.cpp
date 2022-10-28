@@ -2,8 +2,6 @@
 #include <Windows.h>
 
 #include <algorithm>
-#include <fstream>
-#include <iostream>
 
 
 static char* TASBotBase = reinterpret_cast<char*>(GetModuleHandle("tBot.dll"));
@@ -22,7 +20,7 @@ void TerminateString(void* Address) {
 
 
 DWORD APIENTRY MainThread(LPVOID lpParam) {
-    
+
     TerminateString(TASBotBase + GetOffset(TASBotBase, 5000000, "Replay by TASBOT"));
     TerminateString(TASBotBase + GetOffset(TASBotBase, 5000000, "Replay by TASBOT"));
 
